@@ -1,1 +1,1 @@
-hola
+hola, el dia de presentaremos la app del Juego de la Vida, el cua consta de una serie de variable estadisticas y probles conclusiones que desenacaadenan en como la vida micrroorganica constatnte ¿mente esta en eeste embrollo del juego de la vida
